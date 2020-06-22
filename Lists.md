@@ -17,17 +17,34 @@
 
 
 ## 안시후
-
-
+- OSS
+    - 오픈소스 소프트웨어
+    - 리눅스
+    - vim
+    - git
+    - github
+    - Markdown
+  
+- TEAM Project
+    1. Emphasis
+    2. Links
+    3. Headers
+    4. Lists
+    5. Tables
+    6. Images
+    7. Quotes
+    8. Quotes
+  
+  
 ## 석태민
-
-
+  
+  
 ## 전유정
-
-
+  
+  
 ## 최서연
-
-
+  
+  
 ## 곽호권
-
-
+  
+  
