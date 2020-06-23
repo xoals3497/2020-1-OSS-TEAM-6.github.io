@@ -15,7 +15,7 @@ _ _ _
   
 _ _ _
 ## 최서연
-  
+> Brevity is the soul of wit. -William Shakespeare  
 _ _ _
 ## 곽호권
   
