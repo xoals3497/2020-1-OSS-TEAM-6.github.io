@@ -23,7 +23,16 @@ _ _ _
   
 _ _ _
 ## 최서연
-  
+```python
+def factorial(n):
+    if n ==1:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+print(factorial(2))
+
+```  
 _ _ _
 ## 곽호권
   

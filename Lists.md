@@ -43,7 +43,12 @@ _ _ _
   
 _ _ _
 ## 최서연
-  
+- vegetable
+    1. lettuce
+    2. cabbage
+    3. cauliflower
+    4. potato 
+    5. spinach  
 _ _ _
 ## 곽호권
   

@@ -27,7 +27,11 @@
   
   
 ## 최서연
-  
+| Baseball team | coach |mascot| number of KBO wins |
+|---------------|:------|:----:|-------------------:|
+|Hanwha egles   |Choi Wonho |Su Ri |**1**           |
+|Samsung lions  |Heo Samyeong |lion |**8**          |
+|doosan bears   |Gim Taehyeong |bear |6             |
   
 ## 곽호권
   

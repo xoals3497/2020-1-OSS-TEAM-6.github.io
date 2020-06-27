@@ -25,7 +25,10 @@ _ _ _
   
 _ _ _
 ## 최서연
-  
+italics: *crab*
+bold: **big** 
+bold italics: **_big crab_** 
+strike through: ~~nonsense~~
 _ _ _
 ## 곽호권
   
