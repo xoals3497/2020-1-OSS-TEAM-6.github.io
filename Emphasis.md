@@ -31,5 +31,8 @@ bold italics: **_big crab_**
 strike through: ~~nonsense~~
 _ _ _
 ## 곽호권
-  
+My name is **Hokwon Kwak**
+age : **25**
+hobby : **_take pictures_** 
+want : ~~rest~~  
 _ _ _
