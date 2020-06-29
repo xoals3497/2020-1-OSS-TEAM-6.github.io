@@ -31,13 +31,13 @@ _ _ _
 _ _ _
 ## 최서연
 
-person
+Sunmoon university
 =======
-me
+studying..
 
-not person
+department
 -----  
-cat
+Global Software 
 _ _ _
 ## 곽호권
   
