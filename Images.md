@@ -27,7 +27,7 @@ _ _ _
 ## 곽호권
 고화질 배경화면을 얻어가세요!
 
-![자연1](http://hd.wallpaperswide.com/thumbs/spirit_island_maligne_lake_jasper_national_park_alberta_canada-t2.jpg)
-![자연2](http://hd.wallpaperswide.com/thumbs/beautiful_moraine_lake_sunrise-t2.jpg)
+![자연사진1](http://hd.wallpaperswide.com/thumbs/spirit_island_maligne_lake_jasper_national_park_alberta_canada-t2.jpg)
+![자연사진2](http://hd.wallpaperswide.com/thumbs/beautiful_moraine_lake_sunrise-t2.jpg)
 <img src="http://hd.wallpaperswide.com/thumbs/mountain_lake-t2.jpg" width ="450">  
 _ _ _

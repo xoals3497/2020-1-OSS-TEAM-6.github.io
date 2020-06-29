@@ -24,7 +24,7 @@ _ _ _
 [sunmoon university](https://lily.sunmoon.ac.kr/MainDefault.aspx)  
 _ _ _
 ## 곽호권
-당신이 SNS를 좋아하신다면!
+당신이 SNS를 좋아하신다면!!
 
 [Instagram](https://www.instagram.com/)   
 _ _ _
