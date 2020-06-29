@@ -43,12 +43,24 @@ _ _ _
   
 _ _ _
 ## 최서연
-- vegetable
-    1. lettuce
-    2. cabbage
-    3. cauliflower
-    4. potato 
-    5. spinach  
+- subject
+    1. OSS
+    2. Computer Structure
+    3. SW Engineering
+    4. modern society & NGO
+    5. Programming 1 
+    6. Data Science 1 
+
+- Expected grade(~~wish~~:4 )
+    1. OSS: A+
+    2. Computer Structure: B+ 
+    3. SW Engineering: A+
+    4. modern society & NGO: A+
+    5. Programming 1: B+
+    6. Data Science 1: B+
+
+
+
 _ _ _
 ## 곽호권
 - 수강과목

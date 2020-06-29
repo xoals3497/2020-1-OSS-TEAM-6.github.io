@@ -27,11 +27,11 @@
   
   
 ## 최서연
-| Baseball team | coach |mascot| number of KBO wins |
+| subject  | professor |difficulty| credit |
 |---------------|:------|:----:|-------------------:|
-|Hanwha egles   |Choi Wonho |Su Ri |**1**           |
-|Samsung lions  |Heo Samyeong |lion |**8**          |
-|doosan bears   |Gim Taehyeong |bear |6             |
+|OSS   |Kim Suhwan |high |**3**           |
+|modern society & NGO  |Seo Mijeong|high |**3**          |
+|Data Science1   |Kim Eunghui |high |**3**             |
   
 ## 곽호권
 | 수업명  | 교수님 | 난이도 | 학점 |
