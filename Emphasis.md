@@ -33,6 +33,6 @@ _ _ _
 ## 곽호권
 My name is **Hokwon Kwak**
 age : **25**
-hobby : **_take pictures_** 
-want : ~~rest~~  
+hobby : **_Take pictures_** 
+want : ~~Rest~~  
 _ _ _

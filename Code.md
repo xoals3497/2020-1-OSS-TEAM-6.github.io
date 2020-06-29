@@ -37,11 +37,14 @@ _ _ _
 ## 곽호권
 ```python
 import calcpkg   
- 
+- 덧셈
 print(calcpkg.operation.add(10, 20))  
+- 뺄셈
 print(calcpkg.operation.mul(10, 20))
  
+- 삼각형그리기
 print(calcpkg.geometry.triangle_area(30, 40))   
+- 사각형그리기
 print(calcpkg.geometry.rectangle_area(30, 40))
 ```
 _ _ _
