@@ -25,7 +25,8 @@ _ _ _
 My name : **_Jeon YuJung_**   
 My age  : **21** *years old*   
 My hobby: **_playing game_**   
-*List of My Games : League Of Legends, Stardew Valley, Mabinoge, *~~Overwatch~~
+*List of My Games : League Of Legends, Stardew Valley, Mabinoge, ~~Overwatch~~*
+
 _ _ _
 ## 최서연
 name: *Seoyeon Choi*
