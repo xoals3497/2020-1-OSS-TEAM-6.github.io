@@ -20,7 +20,12 @@ _ _ _
   
 _ _ _
 ## 전유정
-  
+`format()`를 이용해보자.
+
+```python
+name = 'Jeon YuJung'
+print('Hi! My name is {} and please take good care of me!'.format(name))
+```  
 _ _ _
 ## 최서연
 ```python

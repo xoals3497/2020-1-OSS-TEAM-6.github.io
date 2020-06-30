@@ -17,7 +17,9 @@ _ _ _
   
 _ _ _
 ## 전유정
-  
+이미지 검색이 필요하다면 구글 이미지 검색을 이용해보세요!
+
+[google image search](https://www.google.co.kr/imghp?hl=ko)  
 _ _ _
 ## 최서연
 선문대학교에 오세요!

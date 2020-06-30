@@ -19,7 +19,8 @@ _ _ _
   
 _ _ _
 ## 전유정
-  
+![Dog's](https://img.insight.co.kr/static/2019/05/29/700/0k2sv68nso46ww4o5js6.jpg "Cute Dog's")
+<img src ="https://lh3.googleusercontent.com/proxy/EzkJYdYp4LWG5CPtsHUevvxqm0w2gx1rJEyQ92xRoCjo1_YJNLdU_MBNbZ0k6z83CvxgK2acYTW_5o1kJGzx2O55LjX50ZwoKXlIQi8eOjDaV2MOmJktpmpRGnSNaid7z_8odPf6XArplhncyun93h7XhdPbOWXxLy7PUtmL" width="400" height="350" >
 _ _ _
 ## 최서연
 ![Hanwha eagles](https://search.pstatic.net/common?type=o&size=150x112&quality=95&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F146%2F48%2F40%2F93%2F146_2484093_team_image_url_1484021222014.jpg)  

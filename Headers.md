@@ -27,7 +27,12 @@ _ _ _
   
 _ _ _
 ## 전유정
-  
+SunMoon University
+==========
+I'm a student at SunMoon University.
+Department of Global Software.
+----------
+I'm a sophomore in the Global Software department. 
 _ _ _
 ## 최서연
 
