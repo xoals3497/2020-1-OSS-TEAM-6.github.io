@@ -22,9 +22,9 @@ _ _ _
   
 _ _ _
 ## 전유정
-My name : **_Jeon YuJung_**
-My age  : **21** *years old*
-My hobby: **_playing game_**
+My name : **_Jeon YuJung_**   
+My age  : **21** *years old*   
+My hobby: **_playing game_**   
 *List of My Games : League Of Legends, Stardew Valley, Mabinoge, *~~Overwatch~~
 _ _ _
 ## 최서연
