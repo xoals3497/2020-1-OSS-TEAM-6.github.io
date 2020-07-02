@@ -21,7 +21,7 @@ _ _ _
 ## 석태민
 **54321 countdown**
 '''python
- for countdown in 5,4,3,2,1, "Thank you for during 2020-1 semester":
+ for countdown in 5,4,3,2,1, "Thank you for during 2020-1 semester.":
      print(countdown)
 '''
   
