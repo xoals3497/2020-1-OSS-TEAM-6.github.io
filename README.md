@@ -1,9 +1,11 @@
 # Welcome to 2020-1-OSS-TEAM-6.github.io
 
 반갑습니다. **OSS_TEAM_6** 입니다.  
-This is the 2020-1-OSS-TEAM Project.  
+This is the **_2020-1-OSS-TEAM_** Project.  
 Our TEAM number is 6.  
 You can confirm our project below each links
+
+~~We want A+~~ 
 
 [Emphasis](./Emphasis.md)
 - OSS-Team-6의 자기소개입니다.
