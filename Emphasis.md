@@ -12,10 +12,10 @@
 
 * * *
 ## 안시후
-italics        : *거북목*  
-bold           : **할 일**  
-bold & italics : **_개발자_**  
-strick through : ~~휴가~~  
+Name           : *Sihu Ahn*  
+Age            : **26**  
+Hobby          : **_singing_**  
+Dont have      : ~~휴가~~  
   
 _ _ _
 ## 석태민

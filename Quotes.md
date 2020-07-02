@@ -5,7 +5,7 @@
 
 * * *
 ## 안시후
-> 공부중...
+> "Seize the day, put no trush in the tomorrow." -The philosopher Horace
   
 _ _ _
 ## 석태민
