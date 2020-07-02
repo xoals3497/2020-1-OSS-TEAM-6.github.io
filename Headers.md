@@ -21,12 +21,13 @@ The number of "=" or '-' doesn't matter.
 AI소프트웨어학과  
 ------  
 안녕.. 글소ㅠ
-  
-  
-  
-_ _ _
+  _ _ _
 ## 석태민
-  
+# SunMoon University
+안녕하세요. 저는 **선문대학교**에 재학중인 석태민입니다.
+
+##department
+학과는 **글로벌소프트웨어학과**이고 내년부터는 **AI소프트웨어학과**로 변경됩니다.
 _ _ _
 ## 전유정
 SunMoon University

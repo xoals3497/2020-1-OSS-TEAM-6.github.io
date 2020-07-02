@@ -13,11 +13,10 @@
 해외로 나갈 수 있긴 할까요?
 <img src="https://search.pstatic.net/common?type=o&size=108x81&quality=75&direct=true&src=http%3A%2F%2Fdbscthumb.phinf.naver.net%2F1230_000_1%2F20120625174555319_QHL5C988Q.png%2F164_p.png%3Ftype%3Dm1500">
 
-
-
 _ _ _
 ## 석태민
-  
+군대 조심히 잘 다녀오겠습니다!
+![future](http://blogfiles.naver.net/MjAxOTEwMDFfMjQ3/MDAxNTY5ODg2OTQzNDU1.fcIpNGvOSNzL1vJmKyqZ_2KGu8D-JDLn1TKnjVLIK6Ig.imaZQ5qhboDQwCeG7Gd7BFfppGryZwCN_ziQaScWOqUg.PNG.spdeaymfii/%B1%BA%B4%EB4.png)
 _ _ _
 ## 전유정
 ![Dog's](https://img.insight.co.kr/static/2019/05/29/700/0k2sv68nso46ww4o5js6.jpg "Cute Dog's")
