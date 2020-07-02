@@ -17,23 +17,17 @@
 
 * * *
 ## 안시후
-- OSS
-    - 오픈소스 소프트웨어
-    - 리눅스
-    - vim
-    - git
-    - github
-    - Markdown
+- 2020-1학기 수강과목 
+    1.  오픈소스 소프트웨어
+        - A+
+    2.  SW프로젝트심화
+        - A+
+    3.  인공지능
+        - A+
   
-- TEAM Project
-    1. Emphasis
-    2. Links
-    3. Headers
-    4. Lists
-    5. Tables
-    6. Images
-    7. Quotes
-    8. Quotes
+- 2020-2학기 수강과목
+    1. 산학협력SW프로젝트
+        - A+
   
 _ _ _
 ## 석태민

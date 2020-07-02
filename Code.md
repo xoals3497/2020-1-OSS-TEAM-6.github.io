@@ -9,7 +9,9 @@ print('Hello, {}'.format(name))
 
 * * *
 ## 안시후
+
 ```python
+# 오늘의 날짜는?
 from datetime import date
 today = date.today()
 
