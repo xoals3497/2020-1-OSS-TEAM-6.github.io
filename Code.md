@@ -20,10 +20,10 @@ print("Today's date: {}".format(today))
 _ _ _
 ## 석태민
 **54321 countdown**
-'''python
- for countdown in 5,4,3,2,1, "Thank you for during 2020-1 semester.":
-     print(countdown)
-'''
+```python
+for countdown in 5,4,3,2,1, "Thank you for during 2020-1 semester.":
+    print(countdown)
+```
   
 _ _ _
 ## 전유정
